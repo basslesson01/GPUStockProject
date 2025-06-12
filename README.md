@@ -1,2 +1,2 @@
 # GPUStockProject
-Made with IntelliJ instead of Eclipse.
+Made with IntelliJ instead of Eclipse..
